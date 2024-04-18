@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001IEnumerable", "001IEnumerable\001IEnumerable.csproj", "{5BC93CAB-F0A6-4E40-9680-6EF32CADD5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002IQueryable", "002IQueryable\002IQueryable.csproj", "{30C9887A-AAAA-42EB-BFDC-48126A76E42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC93CAB-F0A6-4E40-9680-6EF32CADD5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC93CAB-F0A6-4E40-9680-6EF32CADD5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC93CAB-F0A6-4E40-9680-6EF32CADD5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC93CAB-F0A6-4E40-9680-6EF32CADD5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C9887A-AAAA-42EB-BFDC-48126A76E42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C9887A-AAAA-42EB-BFDC-48126A76E42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C9887A-AAAA-42EB-BFDC-48126A76E42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C9887A-AAAA-42EB-BFDC-48126A76E42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
